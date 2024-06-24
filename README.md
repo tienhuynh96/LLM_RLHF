@@ -4,5 +4,5 @@
 - Step 2: Collect comparison data, and train a reward model
 - Step 3: Optimize a policy against the reward model using reinforcement learning
 
-Demo code for RLHF: 
-Demo code for Training LLM:
+Demo code for RLHF: [Demo]_RLHF.ipynb
+Demo code for Training LLM: [Demo]-LLM-Training.ipynb
